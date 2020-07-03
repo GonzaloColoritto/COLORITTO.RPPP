@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593818795 source:c:\users\gonzalo\desktop\recuperatorioppprogcoloritto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"string.h"
+
+1593817124 source:c:\users\gonzalo\desktop\recuperatorioppprogcoloritto\funciones.c
+
+1593817124 c:\users\gonzalo\desktop\recuperatorioppprogcoloritto\funciones.h
+
